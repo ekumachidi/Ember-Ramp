@@ -5,7 +5,7 @@ Create a [new issue](https://github.com/ekumachidi/Ember-Ramp/issues/new) to mak
 
 ## Sprint 1
 
-**Time Commitment:** Sprint 5 - 10hrs/Sprint
+**Time Commitment:**  5 - 10hrs/Sprint
 **Daily Commitment:** 1-2 hours/day
 
 **Coverage:** Knowledge - Understanding EmberJS Framework
@@ -14,7 +14,7 @@ Create a [new issue](https://github.com/ekumachidi/Ember-Ramp/issues/new) to mak
 
 **Recommended materials:**
 - To get an overview of ember, here's a getting started course on [pluralsight](https://www.pluralsight.com/courses/ember-2-getting-started#)
-- The Official [EmberJS quides] (https://guides.emberjs.com/release/)
+- The Official [EmberJS quides](https://guides.emberjs.com/release/)
 
 **DAY 1 -  _4 Hours_:**
 
