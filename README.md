@@ -5,19 +5,19 @@ Create a [new issue](https://github.com/ekumachidi/Ember-Ramp/issues/new) to mak
 
 ## Sprint 1
 
-**Time Commitment:**  5 - 10hrs/Sprint
+**Time Commitment:** Sprint 1 - 10hrs/Sprint
 
-**Daily Commitment:** 1-2 hours/day
+**Daily Commitment:** 1 - 10hrs/day
 
 **Coverage:** Knowledge - Understanding EmberJS Framework
 
-**Purpose:** To set our baseline for pace and gain an understanding of the current knowledge and skill level of Developer with EmberJS
+**Purpose:** To set our baseline for pace and gain an understanding of the current knowledge and skill level of the Developer with EmberJS
 
 **Recommended materials:**
 - To get an overview of ember, here's a getting started course on [pluralsight](https://www.pluralsight.com/courses/ember-2-getting-started#)
-- The Official [EmberJS quides](https://guides.emberjs.com/release/)
+- The Official [EmberJS quides] (https://guides.emberjs.com/release/)
 
-**DAY 1 -  _4 Hours_:**
+**DAY 1:  _2 Hours_:**
 
 - [ ] **Ember CLI Basics**
   - [ ] Installing Ember CLI
@@ -28,6 +28,7 @@ Create a [new issue](https://github.com/ekumachidi/Ember-Ramp/issues/new) to mak
   - [ ] Upgrading Your Ember Project to Latest Version
   - [ ] Deploying your Application
 
+**DAY 2:  _2 Hours_:**
 - [ ] **Ember Object Model**
   - [ ] Working with Classes and Instances
   - [ ] Working with Computed Properties
@@ -35,6 +36,51 @@ Create a [new issue](https://github.com/ekumachidi/Ember-Ramp/issues/new) to mak
   - [ ] Working with Bindings
   - [ ] Using Mixins
   - [ ] Using Enumerables with Arrays
+
+**DAY 3:  _2 Hours_:**
+
+- [ ] **Ember Templates**
+  - [ ] Working with Classes and Instances
+  - [ ] Working with Conditionals in Templates
+  - [ ] Displaying a List of Items
+  - [ ] Binding with Element Attributes and Classes
+
+**DAY 4:  _2 Hours_:**
+- [ ] **Ember Templates contd**
+  - [ ] Working with HTML Links Inside Templates
+  - [ ] Handling HTML Actions
+  - [ ] Using Template Input Helpers
+  - [ ] Using Development Helpers
+
+**DAY 5:  _2 Hours_:**
+- [ ] **Ember Router**
+  - [ ] Defining an Application Route
+  - [ ] Setting Up a Route Model
+  - [ ] Handling Dynamic Segments Inside Routes
+  - [ ] Defining Routes with Templates
+ 
+**DAY 6:  _2 Hours_:**
+- [ ] **Ember Router**
+  - [ ] Using Redirection with Routes
+  - [ ] Loading and Error Handling
+  - [ ] Using Query Parameters
+
+**DAY 7:  _2 Hours_:**
+
+- [ ] **Ember Controllers**
+  - [ ] Working with Classes and Instances
+  - [ ] Handling Actions in Controllers
+  - [ ] Working with Transitions
+  - [ ] Managing Dependencies Between Controllers
+
+**DAY 8:  _2 Hours_:**
+- [ ] **Ember Components**
+  - [ ] Using Components in an Application
+  - [ ] Using Events in Components
+  - [ ] Implementing Actions in Components
+  - [ ] Passing Properties to a Component Using Yield with Components
+
+**DAY 9: -  _4
 
 **DAY 2 -  _4 Hours_:**
 
