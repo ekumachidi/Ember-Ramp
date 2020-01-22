@@ -6,6 +6,7 @@ Create a [new issue](https://github.com/ekumachidi/Ember-Ramp/issues/new) to mak
 ## Sprint 1
 
 **Time Commitment:**  5 - 10hrs/Sprint
+
 **Daily Commitment:** 1-2 hours/day
 
 **Coverage:** Knowledge - Understanding EmberJS Framework
