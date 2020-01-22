@@ -6,8 +6,12 @@ Create a [new issue](https://github.com/jensenfleming/Ember-Ramp/issues/new) to 
 ## Week 1
 
 **Time Commitment:** Week 1 - 20hrs/Week
+
 **Coverage:** Knowledge - Understanding EmberJS Framework
+
 **Purpose:** To set our baseline for pace and gain an understanding of the current knowledge and skill level of Developer with EmberJS
+
+A good place to get started and get an overview of ember on [pluralsight](https://www.pluralsight.com/courses/ember-2-getting-started#)
 
 **DAY 1 -  _4 Hours_:**
 
