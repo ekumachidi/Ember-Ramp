@@ -11,7 +11,9 @@ Create a [new issue](https://github.com/jensenfleming/Ember-Ramp/issues/new) to 
 
 **Purpose:** To set our baseline for pace and gain an understanding of the current knowledge and skill level of Developer with EmberJS
 
-A good place to get started and get an overview of ember on [pluralsight](https://www.pluralsight.com/courses/ember-2-getting-started#)
+**Recommended materials:**
+- To get an overview of ember, here's a getting started course on [pluralsight](https://www.pluralsight.com/courses/ember-2-getting-started#)
+- The Official [EmberJS quides] (https://guides.emberjs.com/release/)
 
 **DAY 1 -  _4 Hours_:**
 
