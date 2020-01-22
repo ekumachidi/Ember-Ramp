@@ -1,11 +1,12 @@
-Create a [new issue](https://github.com/jensenfleming/Ember-Ramp/issues/new) to make your own checklist. 
+Create a [new issue](https://github.com/ekumachidi/Ember-Ramp/issues/new) to make your own checklist. 
 
 
 # EMBER JS - Leveling Up Plan
 
-## Week 1
+## Sprint 1
 
-**Time Commitment:** Week 1 - 20hrs/Week
+**Time Commitment:** Sprint 5 - 10hrs/Sprint
+**Daily Commitment:** 1-2 hours/day
 
 **Coverage:** Knowledge - Understanding EmberJS Framework
 
@@ -77,9 +78,9 @@ Create a [new issue](https://github.com/jensenfleming/Ember-Ramp/issues/new) to 
 - [ ] Developer provide high level report on progress made.
 - [ ] TSM communicates progress to PXM and Headspace Team
 
-## Week 2
+## Sprint 2
 
-**Time Commitment:** 20hrs/Week
+**Time Commitment:** 20hrs/Sprint
 **Coverage:** Knowledge - Working with Data / Logging Testing Debugging
 **Purpose:** to understand Data Binding regarding the knowledge and skill level of Developer as far as EmberJS is concerned
 
@@ -132,9 +133,9 @@ Create a [new issue](https://github.com/jensenfleming/Ember-Ramp/issues/new) to 
 - [ ] Developer provide high level report on progress made
 - [ ] TSM communicates progress to PXM and Headspace Team
 
-## Week 3
+## Sprint 3
 
-**Time Commitment:** 20hrs/Week
+**Time Commitment:** 20hrs/Sprint
 **Coverage:** Modularising and writing better code with EmberJS
 **Purpose:** Fine-tuning Ember Applications and perfecting the app
 
@@ -177,16 +178,16 @@ Create a [new issue](https://github.com/jensenfleming/Ember-Ramp/issues/new) to 
 
 ##
 
-## WEEK 4
+## Sprint 4
 
 Milestone: SKILL LEVEL TESTING : PROGRESS DETERMINATION
 Coverage : Knowledge + Expertise From Practising + Autonomy
 Purpose : To have an Emperical Score of His Skillset at the end of the Plan, to boost his confidence to allow him to work with EmberJS with Autonomy
 
-**DAYS 1-5 - _20 Hours_:**
+**WEEKS 1-5 - _20 Hours_:**
 
 - [ ] Develop App from the ground up using EmberJS
-- [ ] TSM Gives Report to PXM and Headspace Team
+- [ ] TSM Gives Report to PXM and Litmus Team
 - [ ] TSM Communicates to Partner on the level of Confidence on the next check-in
 
 
